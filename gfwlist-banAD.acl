@@ -23,6 +23,9 @@
 [outbound_block_list]
 # 禁止访问列表
 
+# MiBox
+(^|\.)t7z.cupid.ptqy.gitv.tv$
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\.\w*$
 (^|\.)\w*admaster\w*\.\w*$
