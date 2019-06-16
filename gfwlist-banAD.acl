@@ -26,6 +26,10 @@
 # MiBox
 (^|\.)t7z.cupid.ptqy.gitv.tv$
 
+# hpplay
+(^|\.)hpplay.com.cn
+(^|\.)hpplay.cn
+
 # 广告关键词
 (^|\.)\w*admarvel\w*\.\w*$
 (^|\.)\w*admaster\w*\.\w*$
